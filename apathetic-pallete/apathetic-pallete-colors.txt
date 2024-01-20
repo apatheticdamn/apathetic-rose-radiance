@@ -6,7 +6,7 @@ neutrol - #0a0a0a
 zinc - #09090b
 canvas - #0a0e1a
 border - #1a233d
-bg - #030712
+bg - #070a13
 
 token colors :
 
