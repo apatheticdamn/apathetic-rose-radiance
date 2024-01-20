@@ -1,43 +1,31 @@
-app colors:
+## Background colors
 
-gray - #374151
-stone - #0c0a09
-neutrol - #0a0a0a
-zinc - #09090b
-canvas - #0a0e1a
-border - #1a233d
-bg - #070a13
+darkest-background-color: #060810
+dark-background-color: #101529
+less-dark-background-color: #1A2345
 
-token colors :
 
-rose - #e11d48
-dark-rose #881337
+## Foreground colors
 
-purple - #c026d3
-dark-purple - #701a75
+light-foreground-color: #E1355D
+lighter-foreground-color: #E17B9E
 
-blue - #2563eb
+dark-accent-color1: #E11D48
+mid-dark-accent-color1: #E13766
+lighter-accent-color1: #E1577C
+extra-light-accent-color1: #E18293
 
-indigo - #4338ca
-dark-indigo - #1e1b4b
+accent-color2: #9900FF
+darker-accent-color2: #490065
 
-sky - #0ea5e9
-dark-sky - #0c4a6e
+accent-color3: #0082C3
 
-cyan - #22d3ee
-dark-cyan - #0e7490
 
-emerold - #10b981
-dark-emerold - #064e3b
+## App colors
 
-green - #22c55e
-dark-green - #166534
+status-bar-background-color: #1A2345
+status-bar-foreground-color: #CECECE
 
-yellow - #facc15
-dark-yellow - #ca8a04
+minimap-background-color: #060810
 
-orange - #f97316
-dark-orange - #c2410c
 
-red - #dc2626
-dark-red - #991b1b
