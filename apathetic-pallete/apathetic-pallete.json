@@ -1,13 +1,13 @@
 {
   "name": "Apathetic Pallete",
-    "$schema": "vscode://schemas/color-theme",
-    "type": "dark",
-    "colors": {
-      "activityBar.background": "#100606",
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#080a14",
     "activityBar.border": "#06081060",
     "activityBar.foreground": "#E1355D",
-    "activityBarBadge.background": "#E1577C",
-    "activityBarBadge.foreground": "#ff0162",
+    "activityBarBadge.background": "#510318",
+    "activityBarBadge.foreground": "#ff0033",
     "activityBar.activeBorder": "#E11D48",
     "badge.background": "#e5092a",
     "badge.foreground": "#fc053b",
@@ -39,7 +39,7 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
     "editorBracketMatch.background": "#060810",
     "editorBracketMatch.border": "#9900FF7f",
-    "editorCursor.foreground": "#9900FF",
+    "editorCursor.foreground": "#ff0044a8",
     "editorError.foreground": "#0082C370",
     "editorGroup.border": "#06081030",
     "editorGroupHeader.tabsBackground": "#060810",
@@ -212,7 +212,7 @@
     "titleBar.inactiveBackground": "#060810",
     "titleBar.inactiveForeground": "#E11D48",
     "tree.indentGuidesStroke": "#1A2345",
-    "widget.shadow": "#06081030",
+    "widget.shadow": "#06081030"
   },
   "editor.tokenColorCustomizations": {
     "types": "#0059ff",
@@ -222,11 +222,13 @@
     "comments": "#be5977a8",
     "functions": "#a106fa",
     "keywords": "#de1742",
-    "textMateRules": [{
-      "scope": "punctuation",
-      "settings": {
+    "textMateRules": [
+      {
+        "scope": "punctuation",
+        "settings": {
           "foreground": "#06fa74"
+        }
       }
-  }]
-  },
+    ]
   }
+}
