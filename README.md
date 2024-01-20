@@ -29,7 +29,3 @@ The Apathetic Palette VS Code theme is a visually stunning combination of rose, 
 ## Customization
 
 Feel free to customize the theme according to your preferences. If you have suggestions or issues, please open an [issue](https://github.com/ApatheticDamn/apathetic-vs-code-theme/issues).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
