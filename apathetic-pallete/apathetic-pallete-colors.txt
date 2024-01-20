@@ -1,31 +1,24 @@
-## Background colors
+/* Background colors */
+darkest-background-color: #060810; /* Midnight Blue */
+dark-background-color: #101529; /* Gunmetal */
+less-dark-background-color: #1A2345; /* Raisin Black */
 
-darkest-background-color: #060810
-dark-background-color: #101529
-less-dark-background-color: #1A2345
+/* Foreground colors */
+light-foreground-color: #E1355D; /* Wild Strawberry */
+lighter-foreground-color: #E17B9E; /* Mauvelous */
 
+dark-accent-color1: #E11D48; /* Jazzberry Jam */
+mid-dark-accent-color1: #E13766; /* Radical Red */
+lighter-accent-color1: #E1577C; /* Cerise Pink */
+extra-light-accent-color1: #E18293; /* Light Crimson */
 
-## Foreground colors
+accent-color2: #9900FF; /* Electric Violet */
+darker-accent-color2: #490065; /* Byzantium */
 
-light-foreground-color: #E1355D
-lighter-foreground-color: #E17B9E
+accent-color3: #0082C3; /* Blue (RYB) */
 
-dark-accent-color1: #E11D48
-mid-dark-accent-color1: #E13766
-lighter-accent-color1: #E1577C
-extra-light-accent-color1: #E18293
+/* App colors */
+status-bar-background-color: #1A2345; /* Raisin Black */
+status-bar-foreground-color: #CECECE; /* Light Gray */
 
-accent-color2: #9900FF
-darker-accent-color2: #490065
-
-accent-color3: #0082C3
-
-
-## App colors
-
-status-bar-background-color: #1A2345
-status-bar-foreground-color: #CECECE
-
-minimap-background-color: #060810
-
-
+minimap-background-color: #060810; /* Midnight Blue */
