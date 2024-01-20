@@ -14,6 +14,8 @@ The Apathetic Palette VS Code theme is a visually stunning combination of rose, 
    ```json
    "workbench.colorCustomizations": {
      //paste the code under here
+      "activityBar.background": "#080a14",
+      ...
    }
    ```
    to the end line of the file
