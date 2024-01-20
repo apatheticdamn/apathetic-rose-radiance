@@ -8,7 +8,7 @@ light-foreground-color: #E1355D; /* Wild Strawberry */
 lighter-foreground-color: #E17B9E; /* Mauvelous */
 
 dark-accent-color1: #E11D48; /* Jazzberry Jam */
-mid-dark-accent-color1: #E13766; /* Radical Red */
+mid-dark-accent-color1: #e11d48; /* Rose */
 lighter-accent-color1: #E1577C; /* Cerise Pink */
 extra-light-accent-color1: #E18293; /* Light Crimson */
 
