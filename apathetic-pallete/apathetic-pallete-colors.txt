@@ -1,1 +1,43 @@
-tab active background - #0f172a
+app colors:
+
+gray - #374151
+stone - #0c0a09
+neutrol - #0a0a0a
+zinc - #09090b
+canvas - #0a0e1a
+border - #1a233d
+bg - #030712
+
+token colors :
+
+rose - #e11d48
+dark-rose #881337
+
+purple - #c026d3
+dark-purple - #701a75
+
+blue - #2563eb
+
+indigo - #4338ca
+dark-indigo - #1e1b4b
+
+sky - #0ea5e9
+dark-sky - #0c4a6e
+
+cyan - #22d3ee
+dark-cyan - #0e7490
+
+emerold - #10b981
+dark-emerold - #064e3b
+
+green - #22c55e
+dark-green - #166534
+
+yellow - #facc15
+dark-yellow - #ca8a04
+
+orange - #f97316
+dark-orange - #c2410c
+
+red - #dc2626
+dark-red - #991b1b
