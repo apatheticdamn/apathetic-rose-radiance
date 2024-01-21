@@ -1,10 +1,10 @@
-# Apathetic Palette VS Code Theme
+# Apathetic Rose Radiance VS Code Theme
 
 ![Theme Preview](previews/theme-color.png)
 
 ## Description
 
-The Apathetic Palette VS Code theme is a visually stunning combination of rose, purple, blue, and green, with a predominant focus on the subtle and sophisticated rose accent. Enjoy a coding experience with awesome syntax highlighting that enhances readability.
+The Apathetic Rose Radiance VS Code theme is a visually stunning combination of rose, purple, blue, and green, with a predominant focus on the subtle and sophisticated rose accent. Enjoy a coding experience with awesome syntax highlighting that enhances readability.
 
 ## Installation
 
