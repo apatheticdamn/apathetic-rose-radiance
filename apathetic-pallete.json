@@ -2,7 +2,7 @@
   "name": "Apathetic Pallete",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
-  "colors": {
+  "workbench.colorCustomizations": {
     "activityBar.background": "#080a14",
     "activityBar.border": "#06081060",
     "activityBar.foreground": "#E1355D",
@@ -30,11 +30,12 @@
     "editor.findMatchHighlightBorder": "#E17B9E30",
     "editor.foreground": "#E1355D",
     "editor.lineHighlightBackground": "#E11D4820",
-    "editor.selectionBackground": "#E1577C30",
-    "editor.selectionHighlightBackground": "#E11D486b",
-    "editor.inactiveSelectionBackground": "#e11d475b",
+    "editor.selectionBackground": "#52525267",
+    "editor.selectionHighlightBackground": "#4242426b",
+    "editor.inactiveSelectionBackground": "#47474769",
     "editor.selectionHighlightBorder": "#E1577Cf0",
-    "editorBracketHighlight.foreground1": "#01d5ff",
+    "editor.wordHighlightBackground": "#75757538",
+    "editorBracketHighlight.foreground1": "#ff5e01",
     "editorBracketHighlight.foreground2": "#ff0077",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
     "editorBracketMatch.background": "#060810",
@@ -95,7 +96,7 @@
     "list.focusBackground": "#101529",
     "list.focusForeground": "#E1577C",
     "list.highlightForeground": "#E11D48",
-    "list.hoverBackground": "#1A2345",
+    "list.hoverBackground": "#0d1224",
     "list.hoverForeground": "#E17B9E",
     "list.inactiveSelectionBackground": "#06081030",
     "list.inactiveSelectionForeground": "#E11D48",
@@ -170,22 +171,26 @@
     "statusBarItem.hoverBackground": "#E11D4820",
     "statusBarItem.remoteBackground": "#E11D48",
     "statusBarItem.remoteForeground": "#060810",
-    "tab.activeBackground": "#ff003c29",
-    "tab.hoverBackground": "#ff00261d",
+    "tab.activeBackground": "#80808029",
     "tab.activeBorder": "#9f102f",
     "tab.activeBorderTop": "#000000",
-    "tab.activeForeground": "#e60642",
-    "tab.activeModifiedBorder": "#e11d4776",
+    "tab.inactiveModifiedBorder": "#bbbbbb",
+    "tab.lastPinnedBorder": "#8d8d8d",
+    "tab.unfocusedHoverForeground": "#acacac",
+    "tab.unfocusedHoverBackground": "#1d1d1d",
+    "tab.activeForeground": "#ffffff",
+    "tab.activeModifiedBorder": "#cfcfcf76",
     "tab.border": "#060810",
     "tab.inactiveBackground": "#050a1d",
-    "tab.inactiveForeground": "#b1173baf",
+    "tab.inactiveForeground": "#e7e7e7c5",
     "tab.unfocusedActiveBorder": "#E11D48",
-    "tab.unfocusedActiveBackground": "#E11D4840",
-    "tab.unfocusedActiveForeground": "#E1355D",
-    "tab.unfocusedInactiveBackground": "#ff043adc",
-    "tab.unfocusedInactiveForeground": "#ff013c7f",
+    "tab.unfocusedActiveBackground": "#69696940",
+    "tab.unfocusedActiveForeground": "#a8a8a8",
+    "tab.unfocusedInactiveBackground": "#141414dc",
+    "tab.unfocusedInactiveForeground": "#a7a7a77f",
     "tab.unfocusedInactiveModifiedBorder": "#e90633",
-    "tab.hoverForeground": "#e90633",
+    "tab.hoverBackground": "#1d1d1d",
+    "tab.hoverForeground": "#ffffff",
     "terminal.ansiBlack": "#060810",
     "terminal.ansiBlue": "#E1577C",
     "terminal.ansiBrightBlack": "#E11D48",
@@ -215,20 +220,20 @@
     "widget.shadow": "#06081030"
   },
   "editor.tokenColorCustomizations": {
-    "types": "#0059ff",
-    "variables": "#ef115e",
+    "functions": "#0099ff",
+    "variables": "#ffffff",
     "strings": "#00c3a9b7",
     "numbers": "#bf00ff",
     "comments": "#be5977a8",
-    "functions": "#a106fa",
-    "keywords": "#de1742",
+    "types": "#a106fa",
+    "keywords": "#d31841",
     "textMateRules": [
       {
         "scope": "punctuation",
         "settings": {
-          "foreground": "#06fa74"
+          "foreground": "#fae206"
         }
       }
-    ]
+    ],
   }
 }
