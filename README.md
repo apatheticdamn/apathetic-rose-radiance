@@ -1,6 +1,6 @@
 # Apathetic Palette VS Code Theme
 
-![Theme Preview](previews/theme-preview.png)
+![Theme Preview](previews/theme-color.png)
 
 ## Description
 
