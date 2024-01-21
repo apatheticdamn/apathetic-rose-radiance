@@ -10,7 +10,7 @@ The Apathetic Palette VS Code theme is a visually stunning combination of rose, 
 
 1. Open Visual Studio Code.
 2. Open user settings (press `Ctrl+Shift+P` and type `Open Settings`).
-3. (apathetic-pallete.json) Copy the code from:
+3. (apathetic-rose-radiance.json) Copy the code from:
    ```json
    "workbench.colorCustomizations": {
      //paste the code under here
