@@ -12,10 +12,10 @@ The Apathetic Rose Radiance VS Code theme is a visually stunning combination of 
 2. Open user settings (press `Ctrl+Shift+P` and type `Open Settings`).
 3. (apathetic-rose-radiance.json) Copy the code from:
    ```json
+   //paste all of the code the code under here
+   "
    "workbench.colorCustomizations": {
-     //paste the code under here
-      "activityBar.background": "#080a14",
-      ...
+   activityBar.background": "#080a14",...
    }
    ```
    to the end line of the file
